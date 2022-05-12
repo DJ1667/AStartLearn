@@ -965,7 +965,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 1
   data:
-    dataString: UEsDBBQAAAgIAABAIey3MHgG9wEAANgDAAALACQAZ3JhcGgwLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQF1U8Fy2jAQ/RXG58LYGGPSYwmTHgp0cA6ZZHpYpLWtiSxRWQYCw79Xawtwpu1J6O2+t96nxzlgJRhgFs0GuGjq4Osg+jIImFZWN2YJx4Ux2jh0TChKmYkTums4ih1wAPkOW4nfURSl9V1XcC5FtW1bE4dWcMyk3hE3Drv7ghf4A1VhS2K2oFAbLIRWfgrNQC6sNs9Cogej8czB1gMvfyGvN6SpkXi0lDUNOsSgxD0o+2RgV2aNyYHhUnOSDR71StsN/m6EwYB6oXa2OMG5llJwNKSTg6yxX1xiXX6acC08ozEg1L8qBvsM5uU31/ojWhCStuiMqt/d7/Mg2INs6EuHUZjG6SSajSeDCy0OxbJrevtF125wBtXu5hkZabQF67ztxI70Mg798OeJzlYu14Yh/6Ybxes5Kid3ZwzDUZrEYZJMPTX6L9VP9sQoHI/C6TQKHzxx7IlR2FHrUh/Iy3VjpVB4t4cKK/dEc60UMlqg/w5Xmn/LO00hGKxt5g5WrpX8eHnt0VBRQlewrxx33lgrVHHnFo3gny0PkpQl21mexsiAT2c4TKJ4ipDiAzxso0k+CdothBJWgPzp9KW9WutS34uBgqpV3Dil2g7aJFLcuIHDkzhVuhcNoXKdMRcXte40bmu7oIB0DvNF+/fIsF2BqMH5Elz+AFBLAwQUAAAICAAAQCHsWnzhvm4AAAB6AAAACQAkAG1ldGEuanNvbgoAIAAAAAAAAQAYAACAPtXesZ0BAIA+1d6xnQEAgD7V3rGdAatWKkstKs7Mz1OyUjDRM9IzNNVRUEovSizIKAaKGII4pZkpIHa0kql5smmSRZq5cWpyYoqZRaquqaGxWWqieaplomWSoUmaiVIsUH1JZUGqX2JuKkRPQGJJRlpmXkpmXrpeEFBfcYk7yHCl2FoAUEsBAi0AFAAACAgAAEAh7LcweAb3AQAA2AMAAAsAJAAAAAAAAAAAAAAAAAAAAGdyYXBoMC5qc29uCgAgAAAAAAABABgAAIA+1d6xnQEAgD7V3rGdAQCAPtXesZ0BUEsBAi0AFAAACAgAAEAh7Fp84b5uAAAAegAAAAkAJAAAAAAAAAAAAAAARAIAAG1ldGEuanNvbgoAIAAAAAAAAQAYAACAPtXesZ0BAIA+1d6xnQEAgD7V3rGdAVBLBQYAAAAAAgACALgAAAD9AgAAAAA=
+    dataString: UEsDBBQAAAgIAABAIeyAJ/mNlQIAAIsFAAALACQAZ3JhcGgwLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQGFVO9v2jAQ/VeQP68TCayQfdsCpZvUFpVN/bD0g3EuxMKxI/8o0Ir/fWcnNIFOmoSU8O7d+b27c94Il6YGZpVeaJ7fqRzI1wHx7+TToAvewp5ulFzxVzhxnnhuS0+igfNILVeIRz7NqAqs5uyb3AhPHiLoJC+Urub5BlJlrEG4oMIAhrSyPlsi9DYg+zbh0D5f/XNwxDcG0oL+H8tJJmhVQ+7VduRoeKLjWyBKdNJyvGqmhOCmlUHsoQ42U1obhyaQkHOKtoIAzy+Bb0qLf+J+8kNRGLCtKE0PM66xO01V8l01Lauo2TbKXqhwQcBwMpqMo2k8DtKa2ncfaFdxNJ6Mp6Pr8TTwCq2q25OOxqEtOds+0gOjxvZ63Idn50ac3FGxpWsBTyXIe7XQyskcg1Y7n+oMxLNeqXevaQls2/Ea0Regqz/OK+rmdQzd2KeCV2uPfB43wEqo0P/E54DGSf1AwWFLTFsJUS/it4FfdNNfpzZww7WxGGoPlF7dWjntqWQeeubNOJsqLSHAreYaJBX2sMQy9nKkF7HesReRG+ovTnt4Gzvdh4uUAHf84fAitFS7blgGfrqqXiou7QqoZmWvninV7g5M+eCs4BI6Rz5wj01MlZTNOpp/pK2cLijrpVnYW6dhRi0NlwI14Zbk/VRsaMiQTgi/kMGFL/4HXfjfs29ySfFcEWByr2S4TmfPZ78IG8fz830nLBlGyWTEknx6HSdRckXjqEjoaDRas2j6BWIS7gGX2HMqlk3T2lHhBsnOi8SdP33bBgtN63ATc013C/5aqd74uSzUimkA+dBUeDcLGg/BL0Y+zznaXIG1XIbdI28ZEYptIc/eC2WhsfO91TTrqmSk5i/KeiQjafiiZeRIjn8BUEsDBBQAAAgIAABAIezm9QxDbQAAAHgAAAAJACQAbWV0YS5qc29uCgAgAAAAAAABABgAAIA+1d6xnQEAgD7V3rGdAQCAPtXesZ0Bq1YqSy0qzszPU7JSMNEz0jM01VFQSi9KLMgoBooYgjilmSkgdrRSsqWBoaW5cbJlioWZkaWhpW6ikWGaZaKxsXFSsqGFaaqRUixQfUllQapfYm4qRE9AYklGWmZeSmZeup57UWaKO8hopdhaAFBLAQItABQAAAgIAABAIeyAJ/mNlQIAAIsFAAALACQAAAAAAAAAAAAAAAAAAABncmFwaDAuanNvbgoAIAAAAAAAAQAYAACAPtXesZ0BAIA+1d6xnQEAgD7V3rGdAVBLAQItABQAAAgIAABAIezm9QxDbQAAAHgAAAAJACQAAAAAAAAAAAAAAOICAABtZXRhLmpzb24KACAAAAAAAAEAGAAAgD7V3rGdAQCAPtXesZ0BAIA+1d6xnQFQSwUGAAAAAAIAAgC4AAAAmgMAAAAA
     upgradeData: 
     file_cachedStartup: {fileID: 0}
     data_cachedStartup: 
@@ -1029,8 +1029,9 @@ GameObject:
   m_Component:
   - component: {fileID: 1728027647}
   - component: {fileID: 1728027646}
-  - component: {fileID: 1728027645}
   - component: {fileID: 1728027648}
+  - component: {fileID: 1728027645}
+  - component: {fileID: 1728027649}
   m_Layer: 0
   m_Name: Agent
   m_TagString: Untagged
@@ -1047,16 +1048,16 @@ MonoBehaviour:
   m_GameObject: {fileID: 1728027644}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ce11ea984e202491d9271f53021d8b89, type: 3}
+  m_Script: {fileID: 11500000, guid: f6eb1402c17e84a9282a7f0f62eb584f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  version: 1
+  version: 2
   radius: 0.5
   height: 2
   repathRate: 0.5
   canSearch: 1
   canMove: 1
-  maxSpeed: 5
+  maxSpeed: 3
   gravity: {x: NaN, y: NaN, z: NaN}
   groundMask:
     serializedVersion: 2
@@ -1065,15 +1066,15 @@ MonoBehaviour:
   orientation: 0
   enableRotation: 1
   targetCompatibility: {fileID: 0}
-  acceleration: 5
+  maxAcceleration: -2.5
   rotationSpeed: 360
-  slowdownTime: 0.5
-  endReachedDistance: 0.01
-  wallForce: 3
-  wallDist: 1
-  funnelSimplification: 0
+  slowdownDistance: 0.6
+  pickNextWaypointDist: 2
+  endReachedDistance: 0.2
+  alwaysDrawGizmos: 0
   slowWhenNotFacingTarget: 1
-  animCompatibility: {fileID: 0}
+  whenCloseToDestination: 0
+  constrainInsideGraph: 0
 --- !u!114 &1728027646
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1131,6 +1132,21 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   version: 1
   target: {fileID: 1875575490}
+--- !u!114 &1728027649
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1728027644}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98e8d43f4bdde5d47a0425d9b8aa9811, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  version: 1
+  iterations: 5
+  subdivision: 2
 --- !u!1 &1850841029
 GameObject:
   m_ObjectHideFlags: 0
